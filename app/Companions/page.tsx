@@ -2,7 +2,7 @@ import React from 'react'
 
 const Companion = () => {
     return (
-        <div>Sing in</div>
+        <div>Companion</div>
     )
 }
 export default Companion
